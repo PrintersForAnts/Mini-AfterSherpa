@@ -7,7 +7,8 @@ The Mini-AfterSherpa is an alternate toolhead for Voron V0.1 and similar printer
 ## Features
 
 ### Direct-drive extruders
-With the Mini-AfterSherpa, you can choose from multiple direct-drive extruders. 
+
+With the Mini-AfterSherpa, you can choose from multiple direct-drive extruders.
 
 - [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
 - [Sailfin](https://github.com/CroXY3D/Sailfin-Extruder)
@@ -49,11 +50,15 @@ For Bowden setups:
 1. Install both heatset inserts on the holes far to the sides of the top of the Mini-AfterSherpa.
 1. Install fans following the instructions on [page 109 of the V0.1 manual](https://github.com/VoronDesign/Voron-0/raw/Voron0.1/Manuals/Assembly_Manual_0.1.pdf).
 1. Install the hotend using the M2.5×8mm bolts, using the following diagram to determine which holes to use for your hotend.
-![](images/hotend-mounting-holes.png)
+   ![](images/hotend-mounting-holes.png)
 1. Attach the Mini-AfterSherpa to your X carriage with the M3×35mm bolts, routing the hotend wires to either side of the toolhead.
 1. Use zip ties to secure the wires on the sides.  
-![](images/zip-tie-slots.png)
+   ![](images/zip-tie-slots.png)
 1. Install your extruder or Bowden adapter.
+
+# To-Do
+
+### WIP
 
 ## About
 
