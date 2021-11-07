@@ -1,7 +1,0 @@
-v0.592 - Added a missing chamfer to the back of Guts_rP2_back to the newly added top slot.
-
-v0.591 - Added matching slots to the front of Motor_Mount_Front_rP2 and the back of Guts_rP2_back.
-
-v0.590 - Properly named Latch_rP2 to [a]_Latch_rP2 as it is an accent color piece.
-
-v0.589 - Initial release of the Reverse PocketWatch 2
