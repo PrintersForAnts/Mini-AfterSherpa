@@ -2,7 +2,11 @@
 
 ![](images/mini-aftersherpa-hero.jpg)
 
-The Mini-AfterSherpa is an alternate toolhead for Voron V0.1 and similar printers ([Micron](https://github.com/hartk1213/micron), [Flying Zero](https://github.com/zruncho3d/f-zero), [Salad Fork](https://github.com/YeriWyn/Salad_Fork), etc) that use the Mini-Afterburner-style X carriage. It offers flexibility and extruder choice with additional convenience.
+The Mini-AfterSherpa is an alternate toolhead for Voron V0.1 and similar printers ([Micron][micronURL], [Flying Zero][fzeroURL], [Salad Fork][saladForkURL], etc) that use the Mini-Afterburner-style X carriage. It offers flexibility and extruder choice with additional convenience.
+
+[micronURL]: https://github.com/hartk1213/micron
+[fzeroURL]: https://github.com/zruncho3d/f-zero
+[saladForkURL]: https://github.com/YeriWyn/Salad_Fork
 
 ## Features
 
@@ -12,19 +16,25 @@ With the Mini-AfterSherpa, you can choose from multiple direct-drive extruders.
 
 - [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
 - [Sailfin](https://github.com/CroXY3D/Sailfin-Extruder)
-- [Reverse Pocketwatch V2](tree/main/STL/Reversed_PocketWatch2/), a modified version of the original [Pocketwatch V2](https://github.com/VoronDesign/Pocket-Watch)
+- [Reverse Pocketwatch V2](STL/Reversed_PocketWatch2/Reversed_Pocketwatch2_Mini_AS_Edition_v0.593.zip), a modified version of the original [Pocketwatch V2](https://github.com/VoronDesign/Pocket-Watch)
 - [Orbiter V1.5/V2.0](https://www.thingiverse.com/thing:4725897) (coming soon)
 - [Jetpack](https://github.com/VoronDesign/Jetpack-Extruder) (coming soon)
 
 ### Bowden setups
 
-Or, instead, you can use a [Bowden adapter](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/Hartk1213_Bowden_Adapter_Voron0) to pair the Mini-AfterSherpa with any standard 1.75mm-filament Bowden extruder, including the [Voron M4](https://github.com/VoronDesign/Mobius-Extruder/).
+Or, instead, [you can use a Bowden adapter][sherpaBowdenURL] to pair the Mini-AfterSherpa with any standard 1.75mm-filament Bowden extruder, including the [Voron M4][voronM4URL].
+
+[sherpaBowdenURL]: https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/master/Toolheads/Hartk1213_Bowden_Adapter_Voron0
+[voronM4URL]: https://github.com/VoronDesign/Mobius-Extruder/
 
 ### Hotends
 
-- The Phaetus and TriangleLabs Dragons and Phaetus Dragonfly BMO [share the same body](blob/main/STL/Mini_AfterSherpa/Mini_AfterSherpa_Dragon(fly\).stl).
-- The groove-mount E3D V6 and _Zodiac_ Dragonfly BMO also [both share a main body](blob/main/STL/Mini_AfterSherpa/Mini_AfterSherpa_Zodiac_BMO_Plus_V6_Body_x1.stl), but you have to print the slide-in mount that goes with your hotend.
+- The Phaetus and TriangleLab Dragons and Phaetus Dragonfly BMO [share the same body][dragonflySTL].
+- The groove-mount E3D V6 and _Zodiac_ Dragonfly BMO also [both share a main body][groovemountSTL], but you have to print the slide-in mount that goes with your hotend.
 - Support is coming for Zodiac and Phaetus Dragonfly BM**S**, Mosquito, as well as Revo Micro (and more…)
+
+[dragonflySTL]: STL/Mini_AfterSherpa/Mini_AfterSherpa_Dragon(fly).stl
+[groovemountSTL]: STL/Mini_AfterSherpa/Mini_AfterSherpa_Zodiac_BMO_Plus_V6_Body_x1.stl
 
 ### Zip tie slots
 
