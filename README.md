@@ -31,10 +31,12 @@ Or, instead, [you can use a Bowden adapter][sherpaBowdenURL] to pair the Mini-Af
 
 - The Phaetus and TriangleLab Dragons and Phaetus Dragonfly BMO [share the same body][dragonflySTL].
 - The groove-mount E3D V6 and _Zodiac_ Dragonfly BMO also [both share a main body][groovemountSTL], but you have to print the slide-in mount that goes with your hotend.
-- Support is coming for Zodiac and Phaetus Dragonfly BM**S**, Mosquito, as well as Revo Micro (and more…)
+- The Slice Engineering Mosquito and Mellow NF Crazy [both share a main body](mosquitoSTL) as well.
+- Support is coming for Zodiac and Phaetus Dragonfly BM**S**, as well as Revo Micro (and more…)
 
 [dragonflySTL]: STL/Mini_AfterSherpa/Mini_AfterSherpa_Dragon(fly).stl
 [groovemountSTL]: STL/Mini_AfterSherpa/Mini_AfterSherpa_Zodiac_BMO_Plus_V6_Body_x1.stl
+[mosquitoSTL]: STL/Mini_AfterSherpa/Mini_AfterSherpa_Skeeter_x1.stl
 
 ### Zip tie slots
 

@@ -5,7 +5,7 @@
 - Groove-mount V6:
   - [x] Supported (not yet tested)
 - Mosquito/NF Crazy:
-  - [ ] Not started yet, but supported by [smallboi's version](https://www.thingiverse.com/thing:4977800)
+  - [x] Supported. An alternative for the Voron 0.0 style toolhead mount is available from [smallboi here](https://www.thingiverse.com/thing:4977800)
 - Threaded-mount V6/Revo?:
   - [ ] Not started yet, but supported by [smallboi's version](https://www.thingiverse.com/thing:4977800)
 
