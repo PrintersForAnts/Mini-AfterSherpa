@@ -31,3 +31,4 @@ MiniASLGXerpaLite-Cover.stl
 <img src="Images/StrainRelief.jpg" width=300>
 <img src="Images/Cover.png" width=300>
 
+Contact me on Discord @cmrny with feedback.  Thanks
