@@ -24,7 +24,7 @@ With the Mini-AfterSherpa, you can choose from multiple direct-drive extruders.
 
 Or, instead, [you can use a Bowden adapter][sherpaBowdenURL] to pair the Mini-AfterSherpa with any standard 1.75mm-filament Bowden extruder, including the [Voron M4][voronM4URL].
 
-[sherpaBowdenURL]: https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/tree/22551a66408e721e1e06c219fe91e95590cbfbb3/Toolheads/Hartk1213_Bowden_Adapter_Voron0
+[sherpaBowdenURL]: https://github.com/KurioHonoo/Mini-AfterSherpa/tree/main/mods/LED-Bowden-Adapter
 [voronM4URL]: https://github.com/VoronDesign/Mobius-Extruder/
 
 ### Hotends
