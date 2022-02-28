@@ -1,0 +1,1 @@
+Find the rest of the parts and asembly instructions in the main SlideSwipe [repo](https://github.com/chestwood96/SlideSwipe)
