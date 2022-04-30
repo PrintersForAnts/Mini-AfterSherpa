@@ -15,10 +15,11 @@ The Mini-AfterSherpa is an alternate toolhead for Voron V0.1 and similar printer
 With the Mini-AfterSherpa, you can choose from multiple direct-drive extruders.
 
 - [Sherpa Mini](https://github.com/Annex-Engineering/Sherpa_Mini-Extruder)
+- [Sherpa Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) (Via untested adapter)
 - [Sailfin](https://github.com/CroXY3D/Sailfin-Extruder)
 - [Reverse Pocketwatch V2](STL/Reversed_PocketWatch2/Reversed_Pocketwatch2_Mini_AS_Edition_v0.593.zip), a modified version of the original [Pocketwatch V2](https://github.com/VoronDesign/Pocket-Watch)
-- [Orbiter V1.5/V2.0](https://www.thingiverse.com/thing:4725897) (coming soon)
-- [Jetpack](https://github.com/VoronDesign/Jetpack-Extruder) (coming soon)
+- [Orbiter V1.5/V2.0](https://www.thingiverse.com/thing:4725897) (V1.5 supported, V2 TBD)
+- [Jetpack](https://github.com/VoronDesign/Jetpack-Extruder) (coming soon, maybe someday)
 
 ### Bowden setups
 
@@ -32,11 +33,14 @@ Or, instead, [you can use a Bowden adapter][sherpaBowdenURL] to pair the Mini-Af
 - The Phaetus and TriangleLab Dragons and Phaetus Dragonfly BMO [share the same body][dragonflySTL].
 - The groove-mount E3D V6 and _Zodiac_ Dragonfly BMO also [both share a main body][groovemountSTL], but you have to print the slide-in mount that goes with your hotend.
 - The Slice Engineering Mosquito and Mellow NF Crazy [both share a main body](mosquitoSTL) as well.
-- Support is coming for Zodiac and Phaetus Dragonfly BM**S**, as well as Revo Micro (and more…)
+- Support is _here_ for Zodiac and Phaetus Dragonfly BM**S**, as well as Revo Micro (and more…)
 
 [dragonflySTL]: STL/Mini_AfterSherpa/Mini_AfterSherpa_Dragon(fly).stl
 [groovemountSTL]: STL/Mini_AfterSherpa/Mini_AfterSherpa_Zodiac_BMO_Plus_V6_Body_x1.stl
 [mosquitoSTL]: STL/Mini_AfterSherpa/Mini_AfterSherpa_Skeeter_x1.stl
+[_insert_Revo Micro here_]
+[_insert Revo Voron here_]
+[_insert V6_Zodiac_BMO here_]
 
 ### Zip tie slots
 
