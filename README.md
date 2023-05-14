@@ -32,12 +32,13 @@ Or, instead, [you can use a Bowden adapter][sherpaBowdenURL] to pair the Mini-Af
 
 - The Phaetus and TriangleLab Dragons and Phaetus Dragonfly BMO [share the same body][dragonflySTL].
 - The groove-mount E3D V6 and _Zodiac_ Dragonfly BMO also [both share a main body][groovemountSTL], but you have to print the slide-in mount that goes with your hotend.
-- The Slice Engineering Mosquito and Mellow NF Crazy [both share a main body](mosquitoSTL) as well.
+- The Slice Engineering Mosquito has versions for the [Orbiter v1.5][mosquitoToolhead] and [Orbiter v2.0][mosquitoToolhead].
 - Support is _here_ for Zodiac and Phaetus Dragonfly BM**S**, as well as Revo Micro (and more…)
 
 [dragonflySTL]: STL/Mini_AfterSherpa/Mini_AfterSherpa_Dragon(fly).stl
 [groovemountSTL]: STL/Mini_AfterSherpa/Mini_AfterSherpa_Zodiac_BMO_Plus_V6_Body_x1.stl
-[mosquitoSTL]: STL/Mini_AfterSherpa/Mini_AfterSherpa_Skeeter_x1.stl
+[mosquitoToolhead]: https://github.com/PrintersForAnts/Mini-AfterSherpa/tree/main/STL/Mini_AfterSherpa/Mosquito_Toolhead
+
 [_insert_Revo Micro here_]
 [_insert Revo Voron here_]
 [_insert V6_Zodiac_BMO here_]
@@ -67,12 +68,14 @@ For Bowden setups:
 
 1. Install both heatset inserts on the holes far to the sides of the top of the Mini-AfterSherpa.
 1. Install fans following the instructions on [page 109 of the V0.1 manual](https://github.com/VoronDesign/Voron-0/raw/Voron0.1/Manuals/Assembly_Manual_0.1.pdf).
-1. Install the hotend. 
-  - For Dragon or Phaetus Dragonfly BMO, use the M2.5 bolts that came with the hotend. The following diagram will help determine which holes to use for your hotend.
-   ![](images/hotend-mounting-holes.png)  
-  - For the groove-mount V6 or the Zodiac Dragonfly BMO, slide the groove at the top of the heatsink into the main Mini-AfterSherpa body, then secure it in place by sliding the other mount part in behind the toolhead.
+1. Install the hotend.
+
+- For Dragon or Phaetus Dragonfly BMO, use the M2.5 bolts that came with the hotend. The following diagram will help determine which holes to use for your hotend.
+  ![](images/hotend-mounting-holes.png)
+- For the groove-mount V6 or the Zodiac Dragonfly BMO, slide the groove at the top of the heatsink into the main Mini-AfterSherpa body, then secure it in place by sliding the other mount part in behind the toolhead.
+
 1. Attach the Mini-AfterSherpa to your X carriage with the M3×35mm bolts. Route the hotend wires to either side of the toolhead, and make sure not to crush them when you're tightening the M3 bolts.
-1. Use zip ties to secure the wires on the sides of the Mini-AfterSherpa.   
+1. Use zip ties to secure the wires on the sides of the Mini-AfterSherpa.  
    ![](images/zip-tie-slots.png)
 1. Install your extruder or Bowden adapter.
 
